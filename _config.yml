@@ -12,7 +12,7 @@ title                    : "Ke Yang/Homepage"
 title_separator          : "-"
 name                     : &name "Ke Yang"
 description              : &description "I am a CS student who what to build the world better."
-url                      : https://pangzike.github.io/KeYang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://pangzike.github.io/KeYang.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://pangzike.github.io/KeYang.github.io/"
 
