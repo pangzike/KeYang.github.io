@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ke Yang"
+title                    : "Ke Yang/Homepage"
 title_separator          : "-"
 name                     : &name "Ke Yang"
 description              : &description "I am a CS student who what to build the world better."
