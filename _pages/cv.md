@@ -18,9 +18,9 @@ Education
 
 Publications
 ======
-* [Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog](/publication/number2)
+* [Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog](publication/number2)
   Fanqi Wan, Weizhou Shen, **Ke Yang**, Xiaojun Quan, and Wei Bi. Association for Computational Linguistics(ACL), 2023.
-* [Generic dependency modeling for multi-party conversation](/publication/number1)
+* [Generic dependency modeling for multi-party conversation](publication/number1)
   Weizhou Shen, Xiaojun Quan, **Ke Yang**. ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
 
 Internship

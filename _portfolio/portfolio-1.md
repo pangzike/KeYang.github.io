@@ -19,7 +19,7 @@ Clusters in Envoy serve as the logical representation of upstream services, enab
 
 ### Front-end
 
-![](/images/project1_2.png)
+![](images/project1_2.png)
 
 This app is designed to configure and manage the envoy proxy. It is composed of three main screens: Service Configuration (Static and Dynamic) and Logs Screen.
 
