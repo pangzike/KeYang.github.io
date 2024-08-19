@@ -12,21 +12,20 @@ title                    : "Ke Yang/Homepage"
 title_separator          : "-"
 name                     : &name "Ke(Cole) Yang"
 description              : &description "I am a CS student who what to build the world better."
-url                      : "https://pangzike.github.io/KeYang.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://pangzike.github.io/KeYang.github.io/"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_8824.jpg"
   name             : "Ke Yang"
   pronouns         : "He/him"
-  bio              : "Currently a MS student at WashU"
+  bio              : "MS student at WashU"
   location         : "US"
-  employer         : "WashU"
   uri              : # URL
   email            : "k.yang1@wustl.edu" 
 
@@ -208,8 +207,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -217,7 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -226,16 +225,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
