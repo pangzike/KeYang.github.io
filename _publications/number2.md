@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/number2
 excerpt: "Fanqi Wan, Weizhou Shen, **Ke Yang**, Xiaojun Quan, Wei Bi <br/><img src='/images/research2.png' style=\"width: 600px; height: auto;\" >"
 date: July 2023
-venue: 'Association for Computational Linguistics(ACL)'
+venue: 'Association for Computational Linguistics (ACL)'
 paperurl: 'https://aclanthology.org/2023.acl-long.627/'
 ---
 [paper link](https://aclanthology.org/2023.acl-long.627/)
