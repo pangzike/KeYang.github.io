@@ -16,7 +16,7 @@ I am currently working with [Prof. Umar Iqbal](https://umariqbal.com/index.html)
 Update
 ======
 - Applying for Fall 2025 PhD program!
-- Finish Master Project iOS Sidecar app! Aug, 2024
+- Finish [Master Project iOS Sidecar app](/portfolio/portfolio-1)! Aug, 2024
 - Join [Prof. Umar Iqbal](https://umariqbal.com/index.html)'s group, working on security projects! May 2024
 - Start studying at [WashU](https://wustl.edu/). Sep 2023
 - Graduate from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), China, Jun 2023
